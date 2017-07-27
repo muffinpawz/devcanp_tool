@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+ DevcanpViewTool::Renderer.copyright "Riggy Riggerson", "I'm gonna sue you"
+```
 
 ## Development
 
